@@ -1,4 +1,5 @@
 //HIIIIIIIIIIIIIII Boooooooo
+//can i mess with your code?
 var ellipses = [];
 var hearts = [];
 var c;
